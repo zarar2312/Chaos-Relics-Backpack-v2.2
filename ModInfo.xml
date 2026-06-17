@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
 	<Name value="ChaosRelicsBackpack" />
-	<DisplayName value="Chaos Relics - Backpack Slot(78) - v2.2" />
-	<Description value="(78)Slot Backpack" />
+	<DisplayName value="Chaos Relics - Backpack Slot(78) - v3.0 (3.0 Compatible)" />
+	<Description value="(78)Slot Backpack | 3.0 Build: b1 (2026-06-17) | Changelog: Pack Mule rebalance + UI presets (16:9/21:9/4K)." />
 	<Author value="Efraim K." />
-	<Version value="2.2" />
+	<Version value="3.0" />
 </xml>

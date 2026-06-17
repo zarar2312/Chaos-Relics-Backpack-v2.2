@@ -1,0 +1,8 @@
+<configs>
+	<set xpath="/xui/@scale">
+		1.35
+	</set>
+	<set xpath="/xui/@stackpanel_scale">
+		1.12
+	</set>
+</configs>

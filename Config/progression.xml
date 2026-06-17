@@ -1,11 +1,11 @@
 <configs>
-	<set xpath="progression/perks/perk[@name='perkPackMule']/effect_group/passive_effect[@name='CarryCapacity']/@value">
-		5,8,13,21,44
+	<set xpath="/progression/perks/perk[@name='perkPackMule']/effect_group/passive_effect[@name='CarryCapacity' and @operation='base_add']/@value">
+		5,10,17,24,31
 	</set>
-	<set xpath="progression/perks/book[@name='perkFiremansAlmanacComplete']/effect_group/passive_effect[@name='CarryCapacity']/@value">
+	<set xpath="/progression/perks/book[@name='perkFiremansAlmanacComplete']/effect_group/passive_effect[@name='CarryCapacity' and @operation='base_add']/@value">
 		78
 	</set>
-	<set xpath="progression/perks/book[@name='perkNightStalkerThiefAdrenaline']/effect_group/passive_effect[@name='CarryCapacity']/@value">
-		78
+	<set xpath="/progression/perks/book[@name='perkNightStalkerThiefAdrenaline']/effect_group/passive_effect[@name='CarryCapacity' and @operation='base_add']/@value">
+		47
 	</set>
 </configs>

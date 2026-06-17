@@ -1,0 +1,29 @@
+<configs>
+	<set xpath="//window[@name='windowBackpack']/@width">
+		873
+	</set>
+	<set xpath="//window[@name='windowBackpack']/@height">
+		416
+	</set>
+	<set xpath="//window[@name='windowBackpack']/rect[@name='header']/label[@text='{currencyamount}']/@pos">
+		737,-8
+	</set>
+	<set xpath="//window[@name='windowBackpack']/rect[@name='header']/sprite[@name='costIcon']/@pos">
+		842,-8
+	</set>
+	<set xpath="//window[@name='windowBackpack']/rect[@name='content']/@height">
+		403
+	</set>
+	<set xpath="//window[@name='windowBackpack']/rect[@name='content']/sprite[@name='backgroundMain']/@width">
+		873
+	</set>
+	<set xpath="//window[@name='windowBackpack']/rect[@name='content']/sprite[@name='backgroundMain']/@height">
+		403
+	</set>
+	<set xpath="//window[@name='windowBackpack']/rect[@name='content']/grid[@name='inventory']/@rows">
+		6
+	</set>
+	<set xpath="//window[@name='windowBackpack']/rect[@name='content']/grid[@name='inventory']/@cols">
+		13
+	</set>
+</configs>

@@ -1,8 +1,11 @@
 <configs>
-	<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group/passive_effect[@name='BagSize']/@value">
+	<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group/passive_effect[@name='BagSize' and @operation='base_set']/@value">
 		78
 	</set>
-	<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group/passive_effect[@name='CarryCapacity']/@value">
+	<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group/passive_effect[@name='CarryCapacity' and @operation='base_set']/@value">
+		34
+	</set>
+	<set xpath="/entity_classes/entity_class[@name='playerFemale']/effect_group/passive_effect[@name='CarryCapacity' and @operation='base_set']/@value">
 		34
 	</set>
 </configs>
